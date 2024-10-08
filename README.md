@@ -2,6 +2,7 @@ This repository contains Jupyter notebooks that process a large dataset of tweet
 sentiment analysis using VADER, and statistical data analysis including logistic regression and Random Forest classification models to predict abortion stance based on moral foundations and sentiment.
 
 Features
+
 Data Filtering: Filters large datasets in chunks to identify tweets related to certain abortion stances and moral foundations.
 Text Cleaning: Cleans tweet text by removing URLs, special characters, and converting text to lowercase.
 Embedding Computation: Uses BERTweet to compute tweet embeddings.
